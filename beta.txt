@@ -1,0 +1,55 @@
+Thomas Velazco 20:56 pm
+
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : fdfd::1afd:e7a4
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::f21d:c60e:5022:561d%10
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 26.220.231.164
+   M scara de subred . . . . . . . . . . . . : 244.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet VirtualBox Host-Only Network:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe81::168d:879b:35fc:69e6%18
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2801:8010:8b1d:3d00:9b50:a83b:eade:5d2c
+   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:8b1d:3d00:210d:5da6:7206:f8d5
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::5193:868:682b:4041%19
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 196.145.1.41
+   M scara de subred . . . . . . . . . . . . : 255.222.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::ceed:dcff:fe19:8325%19
+                                       192.168.1.1
+
+Adaptador de t£nel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2002:0:2877:7aa:203a:3cdd:4cda:e059
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::203a:3cdd:4cda:e059%14
+   Puerta de enlace predeterminada . . . . . : 
