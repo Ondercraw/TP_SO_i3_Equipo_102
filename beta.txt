@@ -103,7 +103,7 @@ Adaptador de Ethernet Ethernet:
 
    Sufijo DNS espec¡fico para la conexi¢n. . : 
    V¡nculo: direcci¢n IPv6 local. . . : fe80::2a5d:204d:ab0c:5917%9
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.54
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.53
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 192.168.1.1
 
@@ -111,6 +111,6 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
 
    Sufijo DNS espec¡fico para la conexi¢n. . : 
    V¡nculo: direcci¢n IPv6 local. . . : fe80::b69e:1a00:45e:d979%5
-   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.54.1
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
